@@ -388,7 +388,7 @@ This project is developed as part of **UCS503: Software Engineering Project** (A
 
 | Name | Roll Number | Role | Core Responsibility Area | Email |
 | :--- | :---: | :--- | :--- | :--- |
-| **Aniket** | `1024030063` | **Project Lead & Full Stack Lead** | React 18, Node.js & Express REST APIs, JWT Auth, Redux, Deployment | [aniket@thapar.edu](mailto:aniket@thapar.edu) |
+| **Aniket** | `1024030063` | **Project Lead & Full Stack Lead** | React 18, Node.js & Express REST APIs, JWT Auth, Redux, Deployment | [aaniket_be24@thapar.edu](mailto:aniket@thapar.edu) |
 | **Hasrat Aulakh** | `1024030991` | **Backend Developer** | Role-Based Middleware, Cloudinary Uploads, Booking State Machine | [haulakh_be24@thapar.edu](mailto:haulakh_be24@thapar.edu) |
 | **Ajay Bhatti** | `1024030989` | **Database & DevOps Lead** | MongoDB Atlas, 2dsphere Geo-Indexing, Search/Filter, Admin Panel | [abhatti_be24@thapar.edu](mailto:abhatti_be24@thapar.edu) |
 | **Shubham Yadav** | `1024030990` | **QA & Documentation Lead** | Jest/Supertest Test Suites, UML Modeling, DFDs, LaTeX Documentation | [syadav_be24@thapar.edu](mailto:syadav_be24@thapar.edu) |
