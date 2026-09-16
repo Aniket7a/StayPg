@@ -384,7 +384,7 @@ npm test -- --watchAll=false
 
 ## 👥 Authors & Team Information
 
-This project is developed as part of **UCS503: Software Engineering Project** (Academic Year 2026–2027) at the **Department of Computer Science and Engineering, Thapar Institute of Engineering and Technology (TIET), Patiala**, under the supervision of **Course Faculty / Dr. Jeelani Asif**.
+This project is developed as part of **UCS503: Software Engineering Project** (Academic Year 2026–2027) at the **Department of Computer Science and Engineering, Thapar Institute of Engineering and Technology (TIET), Patiala**, under the supervision of **Course Faculty /**.
 
 | Name | Roll Number | Role | Core Responsibility Area | Email |
 | :--- | :---: | :--- | :--- | :--- |
